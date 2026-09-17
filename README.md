@@ -66,12 +66,16 @@ Then simply open `index.html` in your browser — no build step required.
 > Add your OpenWeatherMap API key inside `js/script.js` before running.
 
 ## 📁 Project Structure
+```
 ├── index.html # Main structure
 ├── css/
 │ └── style.css # Styling
 ├── icons/ # Weather icons
 └── js/
 └── script.js # App logic & API calls
+```
+
+## 🎬 How It Works (Demo)
 
 
 

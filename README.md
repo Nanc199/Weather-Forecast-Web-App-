@@ -76,6 +76,8 @@ Then simply open `index.html` in your browser — no build step required.
 ```
 
 ## 🎬 How It Works (Demo)
+<img width="348" height="363" alt="Screenshot 2026-08-25 225217 (1)" src="https://github.com/user-attachments/assets/745993b9-f069-49f1-9459-c27a4152a85d" />
+
 
 
 
